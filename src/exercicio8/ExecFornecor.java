@@ -5,7 +5,7 @@
  */
 package exercicio8;
 
-import banco.ContaEspecial;
+import exercicio7.ContaEspecial;
 import javax.swing.JOptionPane;
 
 /**
